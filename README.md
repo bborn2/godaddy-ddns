@@ -1,4 +1,6 @@
-# godaddy-ddns
+# godaddy-ddns with IPV6 support.
+
+forked from CarlEdman/godaddy-ddns, add ipv6 support.
 
 Introduction
 ------------
